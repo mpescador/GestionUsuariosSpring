@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 02 14:20:42 BST 2018
+kotlin-maven-plugin-1.2.21.pom>nexus-common=
+kotlin-maven-plugin-1.2.21.jar>nexus-common=

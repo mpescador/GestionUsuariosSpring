@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 26 12:52:54 BST 2018
+commons-io-2.5.pom>nexus-common=
+commons-io-2.5.jar>nexus-common=

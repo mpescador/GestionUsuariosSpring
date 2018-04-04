@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 26 12:52:15 BST 2018
+maven-plugin-api-3.0.pom>nexus-common=
+maven-plugin-api-3.0.jar>nexus-common=

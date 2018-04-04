@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 02 14:20:40 BST 2018
+maven-site-plugin-3.6.pom>nexus-common=
+maven-site-plugin-3.6.jar>nexus-common=

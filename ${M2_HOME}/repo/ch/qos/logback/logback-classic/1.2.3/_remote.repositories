@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 02 14:21:16 BST 2018
+logback-classic-1.2.3.jar>nexus-common=
+logback-classic-1.2.3.jar>=
+logback-classic-1.2.3.pom>nexus-common=

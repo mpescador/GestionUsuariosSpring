@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Mar 26 12:52:15 BST 2018
+sisu-inject-plexus-1.4.2.pom>nexus-common=
+sisu-inject-plexus-1.4.2.jar>nexus-common=

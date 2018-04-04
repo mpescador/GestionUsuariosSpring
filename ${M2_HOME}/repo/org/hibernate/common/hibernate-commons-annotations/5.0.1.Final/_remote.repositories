@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 02 14:21:16 BST 2018
+hibernate-commons-annotations-5.0.1.Final.jar>nexus-common=
+hibernate-commons-annotations-5.0.1.Final.jar>=
+hibernate-commons-annotations-5.0.1.Final.pom>nexus-common=

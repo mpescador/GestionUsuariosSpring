@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 02 14:21:16 BST 2018
+xmlunit-core-2.5.1.jar>nexus-common=
+xmlunit-core-2.5.1.jar>=
+xmlunit-core-2.5.1.pom>nexus-common=

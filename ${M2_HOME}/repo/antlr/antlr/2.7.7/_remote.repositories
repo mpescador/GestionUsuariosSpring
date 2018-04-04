@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 02 14:21:16 BST 2018
+antlr-2.7.7.jar>=
+antlr-2.7.7.pom>nexus-common=
+antlr-2.7.7.jar>nexus-common=

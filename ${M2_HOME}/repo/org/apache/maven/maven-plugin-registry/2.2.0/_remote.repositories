@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 02 10:26:32 BST 2018
+maven-plugin-registry-2.2.0.pom>nexus-common=
+maven-plugin-registry-2.2.0.jar>nexus-common=

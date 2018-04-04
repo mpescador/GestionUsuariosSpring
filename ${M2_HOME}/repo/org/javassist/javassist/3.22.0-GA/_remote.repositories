@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 02 14:21:16 BST 2018
+javassist-3.22.0-GA.pom>nexus-common=
+javassist-3.22.0-GA.jar>=
+javassist-3.22.0-GA.jar>nexus-common=

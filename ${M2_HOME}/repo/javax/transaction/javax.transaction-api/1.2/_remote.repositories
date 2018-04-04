@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 02 14:21:16 BST 2018
+javax.transaction-api-1.2.pom>nexus-common=
+javax.transaction-api-1.2.jar>=
+javax.transaction-api-1.2.jar>nexus-common=

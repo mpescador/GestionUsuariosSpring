@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 02 14:20:49 BST 2018
+maven-dependency-plugin-3.0.1.pom>nexus-common=
+maven-dependency-plugin-3.0.1.jar>nexus-common=

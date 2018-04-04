@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 02 14:21:16 BST 2018
+mysql-connector-java-5.1.45.pom>nexus-common=
+mysql-connector-java-5.1.45.jar>nexus-common=
+mysql-connector-java-5.1.45.jar>=

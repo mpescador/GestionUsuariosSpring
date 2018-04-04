@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Apr 02 10:26:32 BST 2018
+querydsl-codegen-4.1.4.jar>nexus-common=
+querydsl-codegen-4.1.4.pom>nexus-common=
